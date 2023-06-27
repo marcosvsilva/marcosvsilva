@@ -71,4 +71,4 @@ My primary focus is on back-end development and machine learning research. I hav
 # 📊 GitHub Stats:
 [![](https://github-readme-stats-wheat-two-53.vercel.app/api?username=marcosvsilva&theme=neon&hide_border=false)](https://github.com/marcosvsilva)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=marcosvsilva&theme=neon&hide_border=false)](https://github.com/marcosvsilva)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvsilva&hide=jupyter%20notebook,css,html&size_weight=0.5&count_weight=0.5&theme=neon&langs_count=5&hide_border=falset&layout=donut)](https://github.com/marcosvsilva)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvsilva&hide=jupyter%20notebook,css,html,java&size_weight=0.5&count_weight=0.5&theme=neon&langs_count=5&hide_border=falset&layout=donut)](https://github.com/marcosvsilva)
