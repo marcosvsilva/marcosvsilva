@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm Marcos Vinicius. I'm a software engineer with a master's degree in computer science in the Artificial intelligence line. Currently, I work as a Senior Software Developer and Machine Learning Researcher at [CE&IA](https://github.com/ceia) and Software Engeneering in at [Softworks](https://www.softworks.com/).
+I'm Marcos Vinicius. I'm a software engineer with a master's degree in computer science in the Artificial intelligence line. Currently, I work as a Senior Software Engeneer and Machine Learning Researcher at [CE&IA](https://github.com/ceia) and Software Engineer at [Softworks](https://www.softworks.com/).
 
 As a software engineer and developer, I work with Python, C# and Typescript languages Using Node.js, .net Core and ADO .net frameworks to build REST API's microservices and persistence layers.
 
