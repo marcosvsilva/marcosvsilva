@@ -41,6 +41,6 @@ As a machine learning engineer and researcher, I use machine learning models to 
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/marcosvsilva)
 
 # 📊 GitHub Stats:
-[![](https://github-readme-stats-wheat-two-53.vercel.app/api?username=marcosvsilva&theme=neon&hide_border=false)](https://github.com/marcosvsilva)
+[![](https://github-readme-stats-wheat-two-53.vercel.app/api?username=marcosvsilva&include_all_commits=true&count_private=true&theme=neon&hide_border=false)](https://github.com/marcosvsilva)
 <!--[![](https://github-readme-streak-stats.herokuapp.com/?user=marcosvsilva&theme=neon&hide_border=false)](https://github.com/marcosvsilva)-->
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvsilva&hide=jupyter%20notebook,css,html,java,javascript&size_weight=0.7&count_weight=0.3&theme=neon&langs_count=5&hide_border=falset&layout=donut)](https://github.com/marcosvsilva)
