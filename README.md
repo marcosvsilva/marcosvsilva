@@ -1,4 +1,4 @@
-# 👋 Hi there
+# Hello World! 👨🏻‍💻 
 
 I'm Marcos Vinicius. I'm a software engineer with a master's degree in computer science in the Artificial intelligence line. Currently, I work as a Senior Software Engeneer and Machine Learning Researcher at [CE&IA](https://github.com/ceia) and Software Engineer at [Softworks](https://www.softworks.com/).
 
